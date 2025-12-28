@@ -15,8 +15,8 @@
   },
   "description": "UI Library",
   "devDependencies": {
-    "@biomejs/biome": "2.2.5",
-    "@repo/config": "workspace:*",
+    "@biomejs/biome": "2.3.10",
+    "@effect-cookbook/config": "workspace:*",
     "@types/node": "^24.6.2",
     "@types/react": "^19.2.0",
     "@types/react-dom": "^19.2.0",
@@ -33,7 +33,7 @@
   },
   "keywords": [],
   "license": "ISC",
-  "name": "@repo/ui",
+  "name": "@effect-cookbook/ui",
   "scripts": {
     "format": "pnpm exec biome format",
     "format:write": "pnpm exec biome format --write",

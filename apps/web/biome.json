@@ -32,7 +32,8 @@
       "linter": {
         "rules": {
           "style": {
-            "noDefaultExport": "off"
+            "noDefaultExport": "off",
+            "useComponentExportOnlyModules": "off"
           }
         }
       }

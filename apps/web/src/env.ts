@@ -8,5 +8,4 @@ export const env = createEnv({
   server: {
     NODE_ENV: z.enum(["development", "test", "production"]),
   },
-  skipValidation: Boolean(process.env.SKIP_ENV_VALIDATION),
 });

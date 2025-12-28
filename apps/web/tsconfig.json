@@ -12,6 +12,7 @@
       }
     ]
   },
-  "extends": ["@repo/config/tsconfig/app/next"],
+  "exclude": ["node_modules"],
+  "extends": ["@effect-cookbook/config/tsconfig/app/next"],
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"]
 }
