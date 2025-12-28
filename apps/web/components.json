@@ -2,10 +2,10 @@
   "$schema": "https://ui.shadcn.com/schema.json",
   "aliases": {
     "components": "~/components",
-    "hooks": "@repo/ui/hooks",
-    "lib": "@repo/ui/lib",
-    "ui": "@repo/ui/components",
-    "utils": "@repo/ui/lib/utils"
+    "hooks": "@effect-cookbook/ui/hooks",
+    "lib": "@effect-cookbook/ui/lib",
+    "ui": "@effect-cookbook/ui/components",
+    "utils": "@effect-cookbook/ui/lib/utils"
   },
   "iconLibrary": "lucide",
   "rsc": true,
