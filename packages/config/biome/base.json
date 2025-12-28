@@ -129,7 +129,7 @@
         "recommended": true,
         "useArrayLiterals": "error",
         "useAtIndex": "error",
-        "useBlockStatements": "error",
+        "useBlockStatements": "off",
         "useCollapsedElseIf": "error",
         "useCollapsedIf": "error",
         "useConsistentBuiltinInstantiation": "error",

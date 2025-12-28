@@ -1,11 +1,5 @@
-import { Button } from "@effect-cookbook/ui/components/button";
-
 const Home = () => {
-  return (
-    <div>
-      <Button variant="default">Hello World</Button>
-    </div>
-  );
+  return <div>Hello</div>;
 };
 
 export default Home;
